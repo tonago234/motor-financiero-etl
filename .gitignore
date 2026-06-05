@@ -1,0 +1,10 @@
+# Entornos virtuales
+.venv/
+__pycache__/
+
+# Credenciales de Google y Tokens de sesión
+credentials.json
+token.json
+
+# Archivos de datos locales (opcional, para no subir tu info financiera real)
+*.csv
